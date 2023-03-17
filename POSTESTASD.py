@@ -1,6 +1,6 @@
 # Nama : Muslim Nur Wahid
-# NIM : 22091116070
-# Kelas : Sistem Informasi B
+# NIM : 2209116070
+# Kelas : Sistem Informasi B '22
 
 from prettytable import PrettyTable
 class Node:
