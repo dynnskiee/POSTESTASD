@@ -1,6 +1,6 @@
 # Nama : Muslim Nur Wahid
-# NIM : 22091116070
-# Kelas : Sistem Informasi B
+# NIM : 2209116070
+# Kelas : Sistem Informasi B '22
 
 # CARA KERJA PROGRAM
 Pada saat program dijalankan, user akan ditampilkan menu pilihan data warga perumahan citraland. Kemudian user juga diminta oleh program untuk memasukkan pilihan yang tersedia di dalam list, jika user memasukan angka 1 maka user akan masuk kedalam menu tambah dat warga baru. Setelah itu user diminta untuk memasukan nama lengkap warga baru yang ingin ditambahkan. Apabila user memasukkan angka 2 maka user akan masuk kedalam menu hapus data warga. Setelah masuk, user diminta untuk memasukkan nomor rumah warga yang datanya ingin dihapusnama warga yang ingin dihapus. Apabila user memasukkan angka 3 maka user akan masuk kedalam menu lihat seluruh data warga. Setelah user masuk kedalam menu ini user akan melihat seluruh data warga. Apabila user memasukkan angka 4 maka user akan masuk kedalam menu history data warga. Setelah user masuk dalam menu ini user ditampilkan pilihan history dari data warga yaitu data warga yang ada di perumahan citraland, data warga yang pindah dan kembali ke menu sebelumnya. Apabila user memasukkan angka 5 maka program akan berhenti.
